@@ -1,6 +1,7 @@
-Kokkru
+#include <stdlib.h>
+#include <math.h>
 #include <stdio.h>
-int main(()
+int main()
 {
 printf("Sorry its written incorrectely");
 }
