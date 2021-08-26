@@ -1,1 +1,6 @@
 Kokkru
+#include <stdio.h>
+int main(()
+{
+printf("Sorry its written incorrectely");
+}
