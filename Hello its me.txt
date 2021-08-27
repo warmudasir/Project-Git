@@ -4,4 +4,5 @@
 int main()
 {
 printf("Sorry its written incorrectely");
+printf("Enter anything");
 }
