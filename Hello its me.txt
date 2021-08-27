@@ -3,6 +3,8 @@
 #include <stdio.h>
 int main()
 {
+int git;
 printf("Sorry its written incorrectely");
 printf("Enter anything");
+scanf("%d",&git);
 }
